@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202531523441",
+    "project_id": "flutter-app-tema3-e3a73",
+    "storage_bucket": "flutter-app-tema3-e3a73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202531523441:android:8a0f04ee5c9bb4fe9684d0",
+        "android_client_info": {
+          "package_name": "com.example.mi_aplicacion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0r9YTupTurUGfZ-xb3nBr09E0JjUT6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
